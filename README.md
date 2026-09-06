@@ -25,6 +25,6 @@ Side project developed in my free time.
 ## Outside
 
 - Regularly practice sports
-- Video games, music, movies, series - I like analyzing what i consume not just enjoying it
+- Video games, music, movies, series, anime, manga - I like analyzing what i consume not just enjoying it
 - Naturally curious : documentaries, YouTube content, general culture
 - Always learning something new, technical or not
