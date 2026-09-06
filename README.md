@@ -12,7 +12,7 @@ University project (L1).
 `Python`
 
 **Video Game Project — Unity**
-University project (3rd year).
+University project (L2).
 - 3D tic tac toe for android
 `Unity` · `C#`
 
