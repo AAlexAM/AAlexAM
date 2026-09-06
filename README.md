@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**AAlexAM/AAlexAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student, interested in things where i can combine technical skills with creativity.
+I enjoy exploring different areas of CS and understanding how things work.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**Video Game Project — Python**
+University project (L1).
+- Battleship
+`Python`
+
+**Video Game Project — Unity**
+University project (3rd year).
+- 3D tic tac toe for android
+`Unity` · `C#`
+
+**Personal Project — Unreal Engine 5**
+Side project developed in my free time.
+- Mini tycoon game name FlowStock
+`Unreal Engine 5` · `C++`
+
+
+## Outside
+
+- Regularly practice sports
+- Video games, music, movies, series - I like analyzing what i consume not just enjoying it
+- Naturally curious : documentaries, YouTube content, general culture
+- Always learning something new, technical or not
