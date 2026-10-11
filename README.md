@@ -20,7 +20,8 @@ University project (L2).
 Side project developed in my free time.
 - Mini tycoon game name FlowStock
 `Unreal Engine 5` · `C++`
-- Sports training management software in Java and JavaFX
+- Sports training management software
+`Java` · `JavaFX`
 
 
 ## Outside
